@@ -1,0 +1,13 @@
+    Throughtout my time in the computer science couses I could have used a source code management system a 
+few times. It would have allowed me to work on parts of my projects throughout the last year without 
+altering the original piece of work. This would have been useful in our most recent "teller project".
+I made several mistakes throughtout the project and would delete my previous code with no roll back
+and this created sereral issues for me. If I deleted one line of code and changed it then eventually 
+realized orginal line was better, I would have no way of going back. This created many problems and 
+resulted in the project taking excess amounts of time.
+
+    Also, early in my computer science classes a friend and I would assist each other on bug fixes in 
+each other's code. Having a distributed SCMs would have allowed each of us to help out form different 
+locations. This would have saved time and eleiminated the need for constantl meet ups or study dates. 
+The features I would make the best use of is creating many branches of the original project. The branches
+would have the corrections or different ways of doing the code in them.
